@@ -80,12 +80,12 @@ export default function Home() {
                             </div>
 
                             <p>
-                                This project is my Engineer's Thesis about the table reservation system in a particular restaurant. This project will cover the whole range of requirements, that web
-                                applications should have. The main features of this application will be: booking tables, adding and deleting, bookings from the owner's perspective, and creating a
-                                client's account.
+                                This project is my Engineers Thesis about the table reservation system in a particular restaurant. This project will cover the whole range of requirements, that web
+                                applications should have. The main features of this application will be: booking tables, adding and deleting, bookings from the owners perspective, and creating a
+                                clients account.
                             </p>
                             <a href="https://github.com/mturczak/inzapp">
-                                <p className={`py-1 mt-2 shadow-sm font-semibold rounded-lg bg-slate-100 w-32 m-auto ${hoverScale105} hover:text-teal-500 `}>Project's Github</p>
+                                <p className={`py-1 mt-2 shadow-sm font-semibold rounded-lg bg-slate-100 w-32 m-auto ${hoverScale105} hover:text-teal-500 `}>Projects Github</p>
                             </a>
                             <h4 className="py-3 text-teal-500 font-semibold text-lg">Technologies used</h4>
                             <p className="text-gray-800 py-1">React.js</p>
