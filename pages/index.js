@@ -4,7 +4,7 @@ import Image from 'next/image';
 import { useState } from 'react';
 import { AiFillGithub, AiFillLinkedin } from 'react-icons/ai';
 import { BsFillMoonStarsFill } from 'react-icons/bs';
-import memoji from '../public/AvatarMemoji2.png';
+import memoji from '../public/avatarMemoji2.png';
 
 import burger from '../public/icons/burger.webp';
 import java from '../public/icons/java.jpg';
